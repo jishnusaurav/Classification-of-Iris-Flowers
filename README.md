@@ -6,17 +6,26 @@ The dataset is got from a libray in python.
 
 **Requirements**
 The basic requirements to run this program are:
+
 =>Python 3.6.9
+
 =>numpy-1.18.2
+
 =>scikit-learn-0.22.2
+
 =>scipy-1.4.1
 
 **Description**
 The dataset that we use for this program has a lot of data  samples of Iris flowers of the species Iris setosa, Iris virginica and Iris versicolor
+
 The data we have in terms of:
+
 Length of sepals
+
 Width of sepals
+
 Length of petals
+
 Width of petals
 
 **Working**
