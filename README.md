@@ -5,6 +5,7 @@ The dataset is got from a libray in python.
 
 
 **Requirements**
+
 The basic requirements to run this program are:
 
 =>Python 3.6.9
@@ -16,6 +17,7 @@ The basic requirements to run this program are:
 =>scipy-1.4.1
 
 **Description**
+
 The dataset that we use for this program has a lot of data  samples of Iris flowers of the species Iris setosa, Iris virginica and Iris versicolor
 
 The data we have in terms of:
@@ -29,6 +31,7 @@ Length of petals
 Width of petals
 
 **Working**
+
 The program takes the dataset using the load_iris() function present in the sklearn that we imported in the beginning.
 We split the dataset into training and testing parts for the respective purposes.
 We then train our model using the KNN algorithm and then use the predict method to predict method to predict the model and give us the output.
