@@ -1,7 +1,7 @@
 # Classification-of-Iris-Flowers
 This is a machine learning project in python that classifies Iris flowers into the species type on the basis of their dimensions using K -nearest neighbors algorithm.
 This is a basic Machine learning project in python that uses the K-Nearest Neighbour algorithm to classify Iris flowers into their respective species.
-The dataset is got from a libray in python.
+The dataset is got from a library in python.
 
 
 **Requirements**
@@ -34,4 +34,4 @@ Width of petals
 
 The program takes the dataset using the load_iris() function present in the sklearn that we imported in the beginning.
 We split the dataset into training and testing parts for the respective purposes.
-We then train our model using the KNN algorithm and then use the predict method to predict method to predict the model and give us the output.
+We then train our model using the KNN algorithm and then use the predict method to predict the model and give us the output.
